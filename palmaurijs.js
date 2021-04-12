@@ -25,9 +25,13 @@ function niveldemaricon(){
         alert("algo gay")
         document.body.style.backgroundColor="red"
     }
-    else {
+    else if (comodegay <8){
         alert("bua muy muy gay")
-        document.body.style.backgroundColor="palevioletre"
+        document.body.style.backgroundColor="yellow"
+    }
+    else if (comodegay<10){
+        alert("bua muy muymiyu muy muy gay")
+        document.body.style.backgroundColor="pink"
     }
 }
 
